@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\bin\Debug\csharp toplama çıkarma operatörü.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\bin\Debug\csharp toplama çıkarma operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\bin\Debug\csharp toplama çıkarma operatörü.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\obj\Debug\csharp toplama çıkarma operatörü.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\obj\Debug\csharp toplama çıkarma operatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\obj\Debug\csharp toplama çıkarma operatörü.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\obj\Debug\csharp toplama çıkarma operatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp toplama çıkarma operatörü\csharp toplama çıkarma operatörü\obj\Debug\csharp toplama çıkarma operatörü.pdb
